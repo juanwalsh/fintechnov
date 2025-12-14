@@ -1,0 +1,7 @@
+{
+  "name": "Fintech Nova",
+  "description": "A modern, secure-looking, fast fintech demo with virtual cards, Pix-style transfers, and AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
